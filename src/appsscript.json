@@ -1,0 +1,11 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "jp",
+      "libraryId": "1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53",
+      "version": "11"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
